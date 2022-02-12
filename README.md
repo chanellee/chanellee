@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chanellee!
 - 👀 I’m interested in data science.
-- 🌱 I’m currently learning how to manage big data.
-- 💞️ I’m looking to collaborate on machine learning projects.
+- 🌱 I’m currently learning how to build an app.
+- 💞️ I’m looking to collaborate on data science and machine learning projects.
 - 📫 You can reach me at chanelclee.com
 
 <!---
